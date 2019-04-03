@@ -1,0 +1,2 @@
+Git stastus
+One more change in file index
